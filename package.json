@@ -1,5 +1,5 @@
 {
-  "name": "bench-test",
+  "name": "rig-test",
   "version": "1.0.0",
   "description": "Minimalist testing module for Node.js, simple assertions and seamless ES module support.",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adam-ballinger/bench-test.git"
+    "url": "git+https://github.com/adam-ballinger/rig-test.git"
   },
   "keywords": [
     "bench",
@@ -23,12 +23,11 @@
   "author": "Adam Ballinger",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adam-ballinger/bench-test/issues"
+    "url": "https://github.com/adam-ballinger/rig-test/issues"
   },
-  "homepage": "https://github.com/adam-ballinger/bench-test#README",
+  "homepage": "https://github.com/adam-ballinger/rig-test#README",
   "files": [
     "index.js",
-    "cli.js",
     "README.md"
   ]
 }

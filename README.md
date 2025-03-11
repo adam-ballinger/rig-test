@@ -3,7 +3,7 @@ Minimalist testing module for Node.js, simple assertions and seamless ES module 
 ## Install
 
 ```bash
-npm install bench-test
+npm install rig-test
 ```
 
 ## Usage
@@ -11,7 +11,7 @@ npm install bench-test
 Write tests in a file (e.g., `test.js`):
 
 ```javascript
-import { test, assert } from "bench-test";
+import { test, assert } from "rig-test";
 
 test("addition works", () => {
   assert.equal(1 + 1, 2);
@@ -26,7 +26,7 @@ test("async works", async () => {
 Run them:
 
 ```bash
-npx bench-test test.js
+node test.js
 ```
 
 Output:
