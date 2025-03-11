@@ -47,5 +47,7 @@ Tests: 2 passed, 0 failed
 ## Info
 
 Full API Docs: Coming Soon
+
 License: ISC
+
 Author: Adam Ballinger
