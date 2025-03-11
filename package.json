@@ -1,0 +1,34 @@
+{
+  "name": "bench-test",
+  "version": "1.0.0",
+  "description": "Minimalist testing module for Node.js, simple assertions and seamless ES module support.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-ballinger/bench-test.git"
+  },
+  "keywords": [
+    "bench",
+    "test",
+    "simple",
+    "assertions",
+    "es",
+    "minimalist",
+    "testing"
+  ],
+  "author": "Adam Ballinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adam-ballinger/bench-test/issues"
+  },
+  "homepage": "https://github.com/adam-ballinger/bench-test#README",
+  "files": [
+    "index.js",
+    "cli.js",
+    "README.md"
+  ]
+}
